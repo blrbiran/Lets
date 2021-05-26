@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# 来点事儿
 
-You can use the [editor on GitHub](https://github.com/blrbiran/LetsWeb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 总有些好事，发生在身边
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 线下刚需
 
-### Markdown
+线下活动是人们的刚需，在疫情恢复的大背景下，需求尤甚。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LBS
 
-```markdown
-Syntax highlighted code block
+摆脱老旧列表格式设计所有交互基于LBS
 
-# Header 1
-## Header 2
-### Header 3
+从时间和空间上给用户最直观、连续性最好的体验
 
-- Bulleted
-- List
+![Image](src)
 
-1. Numbered
-2. List
+### AR盲盒
 
-**Bold** and _Italic_ and `Code` text
+提供多种不同属性AR形象的收集场景，体现在与用户交互的关键节点上；
 
-[Link](url) and ![Image](src)
-```
+为特定活动设计专属AR形象
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### GenZ社交
 
-### Jekyll Themes
+着眼于GenZ等年轻人群
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blrbiran/LetsWeb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+从UI设计到新奇UX交互上创新性地把握年轻人的喜好
