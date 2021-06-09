@@ -6,7 +6,7 @@
 
 ### 线下刚需
 
-![local_pic](https://blrbiran.github.io/LetsWeb/pic/local.png)
+![local_pic](https://blrbiran.github.io/Lets/pic/local.png)
 
 线下活动是人们的刚需，在疫情恢复的大背景下，需求尤甚。我们针对这种情况提供一款方便的活动组织与分享平台。
 
@@ -14,7 +14,7 @@
 
 ### LBS（基于位置的服务）
 
-![LBS_pic](https://blrbiran.github.io/LetsWeb/pic/lbs.png)
+![LBS_pic](https://blrbiran.github.io/Lets/pic/lbs.png)
 
 摆脱老旧列表格式设计所有交互。
 
@@ -22,7 +22,7 @@
 
 ### AR盲盒
 
-![box_pic](https://blrbiran.github.io/LetsWeb/pic/box.png)
+![box_pic](https://blrbiran.github.io/Lets/pic/box.png)
 
 提供多种不同属性AR形象的收集场景，体现在与用户交互的关键节点上；
 
@@ -30,7 +30,7 @@
 
 ### GenZ社交
 
-![GenZ_pic](https://blrbiran.github.io/LetsWeb/pic/genz.png)
+![GenZ_pic](https://blrbiran.github.io/Lets/pic/genz.png)
 
 着眼于GenZ等年轻人群。
 
